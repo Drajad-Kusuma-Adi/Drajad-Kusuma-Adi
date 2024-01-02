@@ -2,7 +2,7 @@ Software engineering student.
 
 Loves web development.
 
-Experienced in:
+Learning these and more:
 1. HTML
 2. CSS
 3. JS
