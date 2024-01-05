@@ -2,21 +2,23 @@ Software engineering student.
 
 Loves web development.
 
-Learning these and more:
 Natives
 1. HTML
 2. CSS
 3. JS
 4. PHP
+
 Frameworks & Libraries
 1. React JS
 2. Laravel
 3. Bootstrap 5.3
 4. TailwindCSS
+
 Tools
 1. Visual Studio Code
 2. Postman
 3. phpMyAdmin
+
 Misc.
 1. Linux
 
