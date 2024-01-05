@@ -1,5 +1,4 @@
 Software engineering student.
-
 Loves web development.
 
 Natives
@@ -23,9 +22,11 @@ Misc.
 1. Linux
 
 Eager to learn new things and improve skills.
-
 See my projects on GitHub profile! Most are released as open-source.
 
+Follow me on:
 - YouTube: https://bit.ly/3RK5q1R
 - Instagram: https://bit.ly/3tMFGdg
 - GitHub: https://bit.ly/3H1cRNt
+
+"Ignorance is not bliss, it is merely avoidance of misery."
