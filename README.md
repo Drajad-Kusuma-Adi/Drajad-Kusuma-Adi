@@ -13,14 +13,6 @@ Frameworks & Libraries
 3. Bootstrap 5.3
 4. TailwindCSS
 
-Tools
-1. Visual Studio Code
-2. Postman
-3. phpMyAdmin
-
-Misc.
-1. Linux
-
 Eager to learn new things and improve skills.
 See my projects on GitHub profile! Most are released as open-source.
 
