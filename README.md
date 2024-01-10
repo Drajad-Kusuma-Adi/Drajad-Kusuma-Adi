@@ -10,8 +10,9 @@ Natives
 Frameworks & Libraries
 1. React JS
 2. Laravel
-3. Bootstrap 5.3
+3. Bootstrap
 4. TailwindCSS
+5. Next JS
 
 Eager to learn new things and improve skills.
 See my projects on GitHub profile! Most are released as open-source.
@@ -20,5 +21,3 @@ Follow me on:
 - YouTube: https://bit.ly/3RK5q1R
 - Instagram: https://bit.ly/3tMFGdg
 - GitHub: https://bit.ly/3H1cRNt
-
-"Ignorance is not bliss, it is merely avoidance of misery."
