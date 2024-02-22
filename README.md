@@ -1,23 +1,33 @@
-Software engineering student.
-Loves web development.
+**Software engineering student.**
+**Loves web development.**
 
-Natives
-1. HTML
-2. CSS
-3. JS
-4. PHP
+**Operating System used:** Pop!_OS
 
-Frameworks & Libraries
-1. React JS
-2. Laravel
-3. Bootstrap
-4. TailwindCSS
-5. Next JS
+**Experiences:**
+1. Natives
+- HTML
+- CSS
+- JS
+- PHP
+2. Frameworks & Libraries
+- Leaftlet.js (JS)
+- Bootstrap (CSS)
+- React.js (JS)
+- Laravel (PHP)
+- TailwindCSS (CSS)
+3. Non-Engineering Skills
+- English language
 
-Eager to learn new things and improve skills.
-See my projects on GitHub profile! Most are released as open-source.
+**Tools:**
+- Visual Studio Code
+- Postman
+- Git
+- Figma
+- Canva
 
-Follow me on:
+**Take a look at some of my recent work - I'm always building something new and improving my skills.**
+
+**Follow me on:**
 - YouTube: https://bit.ly/3RK5q1R
 - Instagram: https://bit.ly/3tMFGdg
 - GitHub: https://bit.ly/3H1cRNt
