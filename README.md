@@ -1,7 +1,7 @@
 **Software engineering student.**
 **Loves web development.**
 
-**Operating System used:** Pop!_OS
+**Operating System used:** Windows 11
 
 **Experiences:**
 1. Natives
