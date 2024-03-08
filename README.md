@@ -15,6 +15,7 @@
 - React.js (JS)
 - Laravel (PHP)
 - TailwindCSS (CSS)
+- PathFinding.js (JS)
 3. Non-Engineering Skills
 - English language
 
@@ -26,8 +27,3 @@
 - Canva
 
 **Take a look at some of my recent work - I'm always building something new and improving my skills.**
-
-**Follow me on:**
-- YouTube: https://bit.ly/3RK5q1R
-- Instagram: https://bit.ly/3tMFGdg
-- GitHub: https://bit.ly/3H1cRNt
