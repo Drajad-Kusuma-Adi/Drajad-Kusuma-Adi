@@ -1,6 +1,6 @@
 **Software Engineering Student 🎓 | Web Development Enthusiast 💻**
 
-![HTML5][]![CSS3][]![JavaScript][]![PHP][]
+---
 
 **Experiences:**
 
@@ -30,12 +30,9 @@
 
 ---
 
-**Take a look at some of my recent work! I'm always building something new and improving my skills. 🚀**[![Portfolio][]](https://docs.google.com/document/d/1MbSS5PgXY3BE01NMeO4iM-6IvqhUGbZgU93uJeL0tfQ/edit?usp=sharing)[![GitHub Repos][]](#https://github.com/Drajad-Kusuma-Adi/Drajad-Kusuma-Adi)
+**Take a look at some of my recent work! I'm always building something new and improving my skills. 🚀**
 
 ---
 
 *Feel free to contact me on [drajadkusumaadibusiness@gmail.com](mailto:drajadkusumaadibusiness@gmail.com).*
-
----
-
-*Last updated: [March, 2024]*
+*Also check out my [portfolio](https://docs.google.com/document/d/1MbSS5PgXY3BE01NMeO4iM-6IvqhUGbZgU93uJeL0tfQ/edit?usp=sharing)!*
